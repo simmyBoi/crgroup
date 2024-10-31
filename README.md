@@ -1,6 +1,9 @@
 # crgroup
 Skills Assessment Test
 
+#Full source code for assessment:
+https://github.com/simmyBoi/fullCrgroupSourceCode
+
 # Getting Started with Create React App
 
 This app was not optimised for mobile devices
